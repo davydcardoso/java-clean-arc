@@ -134,12 +134,12 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull re
 
 ## 📄 Licença
 
-MIT © [Seu Nome]
+MIT © Davyd Cardoso
 
 ## 🔗 Links
 
-- [NPM Package](https://www.npmjs.com/package/java-clean-arc)
-- [GitHub Repository](https://github.com/seu-usuario/java-clean-arc)
+- [NPM Package]([https://www.npmjs.com/package/java-clean-arc](https://www.npmjs.com/package/java-clean-arc))
+- [GitHub Repository](https://github.com/davydcardoso/java-clean-arc)
 
 ---
 
